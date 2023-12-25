@@ -1,0 +1,30 @@
+*{
+
+}
+.container-fluid{
+    height: 680px;
+    width: 420px;
+    bottom: 0px;
+    background-color: rgb(9, 76, 202);
+}
+
+ .container-fluid1{
+    height: 540px;
+    bottom: 300px;
+    width: 300px;
+    background-color: white;
+    text-align: left;
+
+    } 
+    input{
+        padding: 0px 75px 0px 20px;
+        margin: 0px 70px 0px 20px;
+        height: 30px;
+    }
+    label{
+        padding: 0px 250px 0px 20px;
+    }
+    button{
+        width: 129px;
+    }
+
